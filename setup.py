@@ -53,13 +53,13 @@ class Uninstall(Command):
 
 setup(name=PROJECT,
       version='2.1.0',
-      description='Pds: Pisi Desktop Services',
-      long_description='Pds is a Python Library that helps developers for '\
+      description='PDS: PiSi Desktop Services',
+      long_description='PDS is a Python Library that helps developers for '\
                        'creating desktop environment independet UI applications',
       license='GNU GPL2',
-      author='Pisi Linux',
-      author_email='admins@pisilinux.org',
-      url='http://pisilinux.org',
+      author='LupuS',
+      author_email='admins@teknoanka.com',
+      url='http://www.teknoanka.com',
       packages=[PROJECT, 'pds.tests', 'pds.ui'],
       data_files = [(plp(), ['README', 'COPYING', 'HELP'])],
       cmdclass = {

@@ -11,16 +11,16 @@ Howto
  .. '4'
 
  instance.home
- .. '/home/pars'
+ .. '/home/lupus'
 
  instance.install_prefix
  .. '/usr/kde/4'
 
  instance.config_file
- .. '/home/pars/.kde4/share/config/kdeglobals'
+ .. '/home/lupus/.kde4/share/config/kdeglobals'
 
  instance.config_path
- .. '/home/pars/.kde4/'
+ .. '/home/lupus/.kde4/'
 
 Test Scripts
 ~~~~~~~~~~~~
